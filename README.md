@@ -1,1 +1,1 @@
-[![GitHub Actions Demo](https://github.com/o-denko/github-actions-playground/actions/workflows/my-first-workflow.yml/badge.svg)](https://github.com/o-denko/github-actions-playground/actions/workflows/my-first-workflow.yml)
+# Github Action. Continuous Integration
